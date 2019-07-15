@@ -1,0 +1,2 @@
+# AIDEJava2Android
+aide使用java控制台编写android程序
